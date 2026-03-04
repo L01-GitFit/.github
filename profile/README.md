@@ -44,7 +44,7 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 |:---:|:---|:---|:---|:---|
 | 1 | [Nguyễn Phương Duy] | 2210526 | Project Manager / Developer | [@github-Duyduide] |
 | 2 | [Lê Khắc Dũng] | 2210574 | Business Analyst / Developer | [@github-KD-Orbitan] |
-| 3 | [Nguyễn gia Khánh] | 2311514 | Product Owner / Developer | [@github-khanh04032005] |
+| 3 | [Nguyễn Gia Khánh] | 2311514 | Product Owner / Developer | [@github-khanh04032005] |
 | 4 | [Nguyễn Như Thắng] | 2213203 | UI/UX Designer / Developer | [@github-ironmanthang] |
 | 5 | [Nguyễn Thị Bảo Trâm] | 2213574 | Researcher / Developer | [@github-BaoTram2k4] |
 
@@ -56,8 +56,8 @@ Tổ chức của chúng tôi bao gồm các repository chính sau:
 * 📋 `gitfit-docs`: Chứa tài liệu, báo cáo, UML Diagrams và User Flows.
 
 ## 🔗 Liên kết quan trọng (Quick Links)
-* 📖 **[Project Wiki ](Link_đến_Wiki_của_nhóm):** Nơi lưu trữ Market Research, Business Canvas, MVP Features.
-* 🛤️ **[Scrum Board](Link_đến_GitHub_Projects):** Bảng theo dõi tiến độ công việc.
+* 📖 **[Project Wiki ](https://github.com/L01-GitFit/gitfit-docs/wiki):** Nơi lưu trữ Market Research, Business Canvas, MVP Features.
+* 🛤️ **[Scrum Board](https://github.com/orgs/L01-GitFit/projects/1):** Bảng theo dõi tiến độ công việc.
 
 ---
 *Dự án được phát triển với niềm đam mê mang lại sức khỏe và thói quen tích cực cho cộng đồng. Chúc nhóm có một học kỳ thành công!* 🚀
