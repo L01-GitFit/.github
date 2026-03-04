@@ -15,11 +15,11 @@ Chào mừng đến với không gian phát triển dự án của nhóm **GitFi
 ---
 
 ## 💡 Về dự án GitFit
-**GitFit** là một ứng dụng di động hỗ trợ tập luyện (Fitness App) được thiết kế đặc biệt dành cho **người mới bắt đầu (Beginners)** tại Việt Nam. 
+**GitFit** là một ứng dụng di động hỗ trợ tập luyện (Fitness App) được thiết kế đặc biệt dành cho **người mới bắt đầu** tại Việt Nam. 
 
 Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ và thiếu dữ liệu địa phương, GitFit tập trung vào sự tối giản, cung cấp các hướng dẫn thuần Việt và giải quyết những "nỗi đau" thực tế tại các phòng tập bình dân (Gym cỏ) như tình trạng đông đúc, thiếu thiết bị. Đồng thời, ứng dụng tích hợp yếu tố trò chơi hóa (Gamification) để giúp người dùng duy trì động lực bền vững.
 
-### ✨ Các tính năng nổi bật (Core Features)
+### ✨ Các tính năng nổi bật
 1. **Lịch tập thông minh & Cá nhân hóa:** Gợi ý lộ trình rõ ràng dựa trên chỉ số BMI và mục tiêu cá nhân.
 2. **Gợi ý bài tập thay thế (Smart Substitution):** Tự động đề xuất các bài tập tương đương khi máy tập chính bị chiếm dụng - *Giải pháp tối ưu cho phòng Gym đông đúc.*
 3. **Thư viện hướng dẫn thuần Việt:** Cung cấp video/ảnh động minh họa kỹ thuật chuẩn xác, dễ hiểu, xóa bỏ rào cản ngôn ngữ.
@@ -28,7 +28,7 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 
 ---
 
-## 🛠 Công nghệ sử dụng (Tech Stack)
+## 🛠 Công nghệ sử dụng
 * **Framework:** React Native (Expo)
 * **Ngôn ngữ:** TypeScript
 * **Quản lý trạng thái:** Zustand / Redux Toolkit
@@ -37,7 +37,7 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 
 ---
 
-## 👥 Thành viên nhóm (Team 5)
+## 👥 Thành viên nhóm
 
 | STT | Họ và Tên | MSSV | GitHub Profile |
 |:---:|:---|:---|:---|
@@ -49,12 +49,12 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 
 ---
 
-## 📂 Cấu trúc Repository (Repositories Structure)
+## 📂 Cấu trúc Repository
 Tổ chức của chúng tôi bao gồm các repository chính sau:
-* 📱 `gitfit-mobile`: Chứa mã nguồn (Source code) của ứng dụng React Native.
-* 📋 `gitfit-docs`: Chứa tài liệu, báo cáo, UML Diagrams và User Flows.
+* 📱 `gitfit-mobile`: Chứa mã nguồn của ứng dụng React Native.
+* 📋 `gitfit-docs`: Chứa tài liệu, báo cáo, BMC và User Flows.
 
-## 🔗 Liên kết quan trọng (Quick Links)
+## 🔗 Liên kết quan trọng
 * 📖 **[Project Wiki ](https://github.com/L01-GitFit/gitfit-docs/wiki):** Nơi lưu trữ Market Research, Business Canvas, MVP Features.
 * 🛤️ **[Scrum Board](https://github.com/orgs/L01-GitFit/projects/1):** Bảng theo dõi tiến độ công việc.
 
