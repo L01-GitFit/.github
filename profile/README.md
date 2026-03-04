@@ -39,13 +39,13 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 
 ## 👥 Thành viên nhóm (Team 5)
 
-| STT | Họ và Tên | MSSV | Vai trò (Role) | GitHub Profile |
+| STT | Họ và Tên | MSSV | GitHub Profile |
 |:---:|:---|:---|:---|:---|
-| 1 | [Nguyễn Phương Duy] | 2210526 | Project Manager / Developer | [@github-Duyduide] |
-| 2 | [Lê Khắc Dũng] | 2210574 | Business Analyst / Developer | [@github-KD-Orbitan] |
-| 3 | [Nguyễn Gia Khánh] | 2311514 | Product Owner / Developer | [@github-khanh04032005] |
-| 4 | [Nguyễn Như Thắng] | 2213203 | UI/UX Designer / Developer | [@github-ironmanthang] |
-| 5 | [Nguyễn Thị Bảo Trâm] | 2213574 | Researcher / Developer | [@github-BaoTram2k4] |
+| 1 | Nguyễn Phương Duy | 2210526 | @github-Duyduide |
+| 2 | Lê Khắc Dũng | 2210574 | @github-KD-Orbitan |
+| 3 | Nguyễn Gia Khánh | 2311514 | @github-khanh04032005 |
+| 4 | Nguyễn Như Thắng | 2213203 | @github-ironmanthang |
+| 5 | Nguyễn Thị Bảo Trâm | 2213574 | @github-BaoTram2k4 |
 
 ---
 
