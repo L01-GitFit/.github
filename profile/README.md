@@ -40,7 +40,7 @@ Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ v
 ## 👥 Thành viên nhóm (Team 5)
 
 | STT | Họ và Tên | MSSV | GitHub Profile |
-|:---:|:---|:---|:---|:---|
+|:---:|:---|:---|:---|
 | 1 | Nguyễn Phương Duy | 2210526 | @github-Duyduide |
 | 2 | Lê Khắc Dũng | 2210574 | @github-KD-Orbitan |
 | 3 | Nguyễn Gia Khánh | 2311514 | @github-khanh04032005 |
