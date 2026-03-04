@@ -2,13 +2,12 @@
 
 > **"404 Fat Not Found - Khởi đầu hành trình thể hình của bạn một cách đơn giản nhất"**
 
-Chào mừng đến với không gian phát triển dự án của nhóm **GitFit**! Đây là dự án thuộc môn học **Phát triển Ứng dụng trên Thiết bị Di động (CO3043)** tại Trường Đại học Bách Khoa - ĐHQG-HCM (HCMUT).
+Chào mừng đến với không gian phát triển dự án của nhóm **GitFit**! Đây là dự án thuộc môn học **Phát triển Ứng dụng trên Thiết bị Di động (CO3043)** tại Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT).
 
 ---
 
 ## 📌 Thông tin học phần
 * **Môn học:** Phát triển Ứng dụng trên Thiết bị Di động (Mobile Application Development) - Mã MH: CO3043
-* **Trường:** Đại học Bách Khoa - ĐHQG-HCM (HCMUT)
 * **Học kỳ:** 252 | **Năm học:** 2025 - 2026
 * **Lớp:** L01
 * **Nhóm:** GitFit
