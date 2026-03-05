@@ -1,6 +1,6 @@
 # 🏋️‍♂️ GitFit - Your Localized Fitness Companion
 
-> **"Khởi đầu hành trình thể hình của bạn một cách đơn giản nhất"**
+> **"404 Fat not found - Khởi đầu hành trình thể hình của bạn một cách đơn giản nhất"**
 
 Chào mừng đến với không gian phát triển dự án của nhóm **GitFit**! Đây là dự án thuộc môn học **Phát triển Ứng dụng trên Thiết bị Di động (CO3043)** tại Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT).
 
