@@ -56,7 +56,7 @@ Tổ chức của chúng tôi bao gồm các repository chính sau:
 
 ## 🔗 Liên kết quan trọng
 * 📖 **[Project Wiki ](https://github.com/L01-GitFit/gitfit-docs/wiki):** Nơi lưu trữ Market Research, Business Canvas, MVP Features.
-* 🛤️ **[Scrum Board](https://github.com/orgs/L01-GitFit/projects/1):** Bảng theo dõi tiến độ công việc.
+* 🛤️ **[Scrum Board](https://github.com/orgs/L01-GitFit/projects/6):** Bảng theo dõi tiến độ công việc.
 
 ---
 *Dự án được phát triển với niềm đam mê mang lại sức khỏe và thói quen tích cực cho cộng đồng. Chúc nhóm có một học kỳ thành công!* 🚀
