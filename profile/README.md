@@ -1,4 +1,4 @@
-# 🏋️‍♂️ GitFit - Your Localized Fitness Companion
+# 🏋️‍♂️ GitFit - Your Personal Fitness Tracking Companion
 
 > **"404 Fat not found - Khởi đầu hành trình thể hình của bạn một cách đơn giản nhất"**
 
@@ -15,7 +15,7 @@ Chào mừng đến với không gian phát triển dự án của nhóm **GitFi
 ---
 
 ## 💡 Về dự án GitFit
-**GitFit** là một ứng dụng di động hỗ trợ tập luyện (Fitness App) được thiết kế đặc biệt dành cho **người mới bắt đầu** tại Việt Nam. 
+**GitFit** là một ứng dụng di động hỗ trợ tập luyện (Fitness App) được thiết kế đặc biệt dành cho **người mới bắt đầu**. 
 
 Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ và thiếu dữ liệu địa phương, GitFit tập trung vào sự tối giản, cung cấp các hướng dẫn thuần Việt và giải quyết những "nỗi đau" thực tế tại các phòng tập bình dân (Gym cỏ) như tình trạng đông đúc, thiếu thiết bị. Đồng thời, ứng dụng tích hợp yếu tố trò chơi hóa (Gamification) để giúp người dùng duy trì động lực bền vững.
 
