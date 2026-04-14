@@ -17,14 +17,14 @@ Chào mừng đến với không gian phát triển dự án của nhóm **GitFi
 ## 💡 Về dự án GitFit
 **GitFit** là một ứng dụng di động hỗ trợ tập luyện (Fitness App) được thiết kế đặc biệt dành cho **người mới bắt đầu**. 
 
-Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ và thiếu dữ liệu địa phương, GitFit tập trung vào sự tối giản, cung cấp các hướng dẫn thuần Việt và giải quyết những "nỗi đau" thực tế tại các phòng tập bình dân (Gym cỏ) như tình trạng đông đúc, thiếu thiết bị. Đồng thời, ứng dụng tích hợp yếu tố trò chơi hóa (Gamification) để giúp người dùng duy trì động lực bền vững.
+Khác với các ứng dụng quốc tế thường phức tạp, đắt đỏ và thiếu dữ liệu địa phương, GitFit tập trung vào sự tối giản, cung cấp các hướng dẫn thuần Việt và giải quyết những "nỗi đau" thực tế tại các phòng tập bình dân (Gym cỏ) như tình trạng đông đúc, thiếu thiết bị. Đồng thời, ứng dụng tích hợp yếu tố trò chơi hóa để giúp người dùng duy trì động lực bền vững.
 
 ### ✨ Các tính năng nổi bật
 1. **Lịch tập thông minh & Cá nhân hóa:** Gợi ý lộ trình rõ ràng dựa trên chỉ số BMI và mục tiêu cá nhân.
-2. **Gợi ý bài tập thay thế (Smart Substitution):** Tự động đề xuất các bài tập tương đương khi máy tập chính bị chiếm dụng - *Giải pháp tối ưu cho phòng Gym đông đúc.*
+2. **Gợi ý bài tập thay thế:** Tự động đề xuất các bài tập tương đương khi máy tập chính bị chiếm dụng - *Giải pháp tối ưu cho phòng Gym đông đúc.*
 3. **Thư viện hướng dẫn thuần Việt:** Cung cấp video/ảnh động minh họa kỹ thuật chuẩn xác, dễ hiểu, xóa bỏ rào cản ngôn ngữ.
-4. **Nhật ký tập luyện nhanh (1-Tap Logging):** Thao tác ghi chú số Sets, Reps và Mức tạ được tối ưu hóa để không làm gián đoạn thời gian nghỉ.
-5. **Trò chơi hóa (Gamification):** Hệ thống chuỗi ngày tập luyện (Streak) giúp duy trì kỷ luật và tạo niềm vui khi đi tập.
+4. **Nhật ký tập luyện nhanh:** Thao tác ghi chú số Sets, Reps và Mức tạ được tối ưu hóa để không làm gián đoạn thời gian nghỉ.
+5. **Trò chơi hóa:** Hệ thống chuỗi ngày tập luyện giúp duy trì kỷ luật và tạo niềm vui khi đi tập.
 
 ---
 
